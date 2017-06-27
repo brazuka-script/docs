@@ -1,0 +1,2 @@
+# docs
+Brazuka Script Documentation
